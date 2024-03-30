@@ -15,7 +15,7 @@ public class Account {
         return name;
     }
 
-    public BigDecimal getAmount(double amount) {
+    public BigDecimal getAmount() {
         return this.amount;
     }
 
